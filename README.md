@@ -1,1 +1,2 @@
 “This is the readme file for the tutorial repository.”
+"New line to show additional information"
